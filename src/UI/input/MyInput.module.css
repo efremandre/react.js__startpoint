@@ -1,0 +1,14 @@
+.input {
+    padding: 1rem;
+    color: black;
+    font-weight: 600;
+    border: 2px solid teal;
+    border-radius: .5rem;
+    outline: none;
+    background: transparent;
+    transition: border .5s;
+}
+
+.input:hover {
+    border: 2px solid grey;
+}

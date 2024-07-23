@@ -1,0 +1,18 @@
+.button {
+    padding: 1rem;
+    color: teal;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    border: 2px solid teal;
+    border-radius: .5rem;
+    outline: none;
+    background: transparent;
+    transition: color .5s, background .5s;
+}
+
+.button:hover {
+    cursor: pointer;
+    background: teal;
+    color: white;
+}
